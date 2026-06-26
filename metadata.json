@@ -1,0 +1,7 @@
+{
+  "name": "VigiBand Pitch Deck Pro",
+  "description": "A high-end, interactive pitch deck for VigiBand, featuring AI-powered pitch coaching, real-time presentation timers, and integrated speaker notes.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
